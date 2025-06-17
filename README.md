@@ -7,7 +7,7 @@ This project lets users upload invoice PDFs and automatically extracts key data 
 
 ## 📸 Live Demo
 
-- 🔗 Frontend: [https://ai-invoice-extractor123-gqi3.vercel.app/](#)
+- 🔗 Frontend: [https://ai-invoice-extractor123-gqi3.vercel.app](#)
 - 🔗 API Backend: [https://your-backend-url.onrender.com](#)
 
 ---
